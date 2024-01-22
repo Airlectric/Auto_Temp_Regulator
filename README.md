@@ -73,8 +73,7 @@ This STM32H743ZI Nucleo-144 project measures temperature using a thermistor and 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Airlectric/stm32-temperature-control.git
-   cd stm32-temperature-control
+   git clone https://github.com/Airlectric/Auto_Temp_Regulator.git
 
 
 ## Usage
